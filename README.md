@@ -1,2 +1,3 @@
-# desafio_snake
- Recriando o jogo da cobrinha com JavaScript
+# Desafio SNAKEGAME
+
+ - Recriando o jogo da cobrinha com JavaScript
